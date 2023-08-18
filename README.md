@@ -1,5 +1,5 @@
 ### 😄 Hi there I'm Vivi
-### 🔭 Currently working on ... learning how the heck to use GitHub
+### 🔭 Currently working on ... learning how the heck this works
 
 <!--
 **vivinutron/vivinutron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
